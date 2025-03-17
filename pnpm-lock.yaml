@@ -49,7 +49,7 @@ dependencies:
     version: 9.23.0
   next:
     specifier: 13.5.8
-    version: 13.5.8(react-dom@18.2.0)(react@18.2.0)(sass@1.85.1)
+    version: 13.5.8(react-dom@18.2.0)(react@18.2.0)(sass@1.86.0)
   react:
     specifier: 18.2.0
     version: 18.2.0
@@ -114,7 +114,7 @@ devDependencies:
     version: 3.5.3
   sass:
     specifier: ^1.62.1
-    version: 1.85.1
+    version: 1.86.0
   typescript:
     specifier: 5.3.2
     version: 5.3.2
@@ -1060,7 +1060,7 @@ packages:
     dependencies:
       '@mantine/ssr': 6.0.22(@emotion/react@11.11.4)(@emotion/server@11.11.0)(react-dom@18.2.0)(react@18.2.0)
       '@mantine/styles': 6.0.22(@emotion/react@11.11.4)(react-dom@18.2.0)(react@18.2.0)
-      next: 13.5.8(react-dom@18.2.0)(react@18.2.0)(sass@1.85.1)
+      next: 13.5.8(react-dom@18.2.0)(react@18.2.0)(sass@1.86.0)
       react: 18.2.0
       react-dom: 18.2.0(react@18.2.0)
     transitivePeerDependencies:
@@ -3604,7 +3604,7 @@ packages:
     resolution: {integrity: sha512-OWND8ei3VtNC9h7V60qff3SVobHr996CTwgxubgyQYEpg290h9J0buyECNNJexkFm5sOajh5G116RYA1c8ZMSw==}
     dev: true
 
-  /next@13.5.8(react-dom@18.2.0)(react@18.2.0)(sass@1.85.1):
+  /next@13.5.8(react-dom@18.2.0)(react@18.2.0)(sass@1.86.0):
     resolution: {integrity: sha512-VlR7FaXpSibCs7ujOqStaDFTGSdX/NvWgLDcd47oiHUe8i63ZtNkX9intgcYAu/MxpaeEGinHaMB5mwxuzglKw==}
     engines: {node: '>=16.14.0'}
     hasBin: true
@@ -3626,7 +3626,7 @@ packages:
       postcss: 8.4.31
       react: 18.2.0
       react-dom: 18.2.0(react@18.2.0)
-      sass: 1.85.1
+      sass: 1.86.0
       styled-jsx: 5.1.1(react@18.2.0)
       watchpack: 2.4.0
     optionalDependencies:
@@ -4216,8 +4216,8 @@ packages:
       is-regex: 1.2.1
     dev: true
 
-  /sass@1.85.1:
-    resolution: {integrity: sha512-Uk8WpxM5v+0cMR0XjX9KfRIacmSG86RH4DCCZjLU2rFh5tyutt9siAXJ7G+YfxQ99Q6wrRMbMlVl6KqUms71ag==}
+  /sass@1.86.0:
+    resolution: {integrity: sha512-zV8vGUld/+mP4KbMLJMX7TyGCuUp7hnkOScgCMsWuHtns8CWBoz+vmEhoGMXsaJrbUP8gj+F1dLvVe79sK8UdA==}
     engines: {node: '>=14.0.0'}
     hasBin: true
     dependencies:
