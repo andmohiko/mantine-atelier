@@ -3394,9 +3394,9 @@ react-icons@^4.8.0:
   integrity sha512-IBaDuHiShdZqmfc/TwHu6+d6k2ltNCf3AszxNmjJc1KUfXdEeRJOKyNvLmAHaarhzGmTSVygNdyu8/opXv2gaw==
 
 react-image-crop@^11.0.5:
-  version "11.0.7"
-  resolved "https://registry.yarnpkg.com/react-image-crop/-/react-image-crop-11.0.7.tgz#25f3d37ccbb65a05d19d23b4740a5912835c741e"
-  integrity sha512-ZciKWHDYzmm366JDL18CbrVyjnjH0ojufGDmScfS4ZUqLHg4nm6ATY+K62C75W4ZRNt4Ii+tX0bSjNk9LQ2xzQ==
+  version "11.0.10"
+  resolved "https://registry.yarnpkg.com/react-image-crop/-/react-image-crop-11.0.10.tgz#20fe6e3ff6fe29745a37eac1b4c0e73e6b17f2e0"
+  integrity sha512-+5FfDXUgYLLqBh1Y/uQhIycpHCbXkI50a+nbfkB1C0xXXUTwkisHDo2QCB1SQJyHCqIuia4FeyReqXuMDKWQTQ==
 
 react-is@^16.13.1, react-is@^16.7.0:
   version "16.13.1"
