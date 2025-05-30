@@ -70,7 +70,7 @@ dependencies:
     version: 9.0.1
   zod:
     specifier: ^3.21.4
-    version: 3.24.2
+    version: 3.25.42
 
 devDependencies:
   '@types/node':
@@ -4899,6 +4899,6 @@ packages:
     engines: {node: '>=10'}
     dev: true
 
-  /zod@3.24.2:
-    resolution: {integrity: sha512-lY7CDW43ECgW9u1TcT3IoXHflywfVqDYze4waEz812jR/bZ8FHDsl7pFQoSZTz5N+2NqRXs8GBwnAwo3ZNxqhQ==}
+  /zod@3.25.42:
+    resolution: {integrity: sha512-PcALTLskaucbeHc41tU/xfjfhcz8z0GdhhDcSgrCTmSazUuqnYqiXO63M0QUBVwpBlsLsNVn5qHSC5Dw3KZvaQ==}
     dev: false
